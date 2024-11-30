@@ -1,0 +1,16 @@
+{
+  "accounts": [
+    {
+      "account_holder": "user1",
+      "account_type": "Savings",
+      "balance": 5027.55,
+      "password": "password1"
+    },
+    {
+      "account_holder": "user2",
+      "account_type": "Checking",
+      "balance": 540.0,
+      "password": "password2"
+    }
+  ]
+}
